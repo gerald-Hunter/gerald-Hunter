@@ -1,6 +1,6 @@
 # Hi, I'm Gerald 👋
-
-💻 Software Engineering Student
+![Profile Views](https://komarev.com/ghpvc/?username=gerald-Hunter&color=0e75b6)
+# 💻 Software Engineering Student
 
 🚀 Passionate about building modern web applications and creating solutions that make a real impact.
 
