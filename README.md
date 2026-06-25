@@ -44,7 +44,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerald-Hunter\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?gerald-Hunter=gerald-Hunter\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-Hunter&layout=compact)
 
 ## 🚀 Featured Projects
 
