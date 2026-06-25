@@ -19,6 +19,7 @@
 * CSS3
 * Bootstrap
 * JavaScript
+* TypeScript
 * React
 
 ### Programming Languages
