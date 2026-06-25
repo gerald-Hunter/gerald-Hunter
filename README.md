@@ -21,6 +21,7 @@
 * JavaScript
 * TypeScript
 * React
+* TailwindCSS
 
 ### Programming Languages
 
